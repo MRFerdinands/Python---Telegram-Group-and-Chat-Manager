@@ -19,12 +19,14 @@ A Python script to bulk manage Telegram groups and private chats.
 ## Setup
 
 1. Clone repo:
+
 ```bash
-git clone [https://github.com/yourusername/telegram-group-manager.git](https://github.com/MRFerdinands/Telegram_Groups-Chat_Manager.git)
+git clone https://github.com/MRFerdinands/Telegram_Groups-Chat_Manager.git
 cd telegram-group-manager
 ```
 
 2. Install dependencies:
+
 ```bash
 pip install telethon
 ```
@@ -36,16 +38,19 @@ pip install telethon
 ## How to Use
 
 1. Run script:
+
 ```bash
 python telegram_manager.py
 ```
 
 2. Enter when prompted:
+
    - API ID
    - API Hash
    - Phone number (with country code)
 
 3. Menu options:
+
    - 1: Manage groups/channels
    - 2: Manage private chats
    - 3: Exit
