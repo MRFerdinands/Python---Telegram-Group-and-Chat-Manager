@@ -20,7 +20,7 @@ A Python script to bulk manage Telegram groups and private chats.
 
 1. Clone repo:
 ```bash
-git clone https://github.com/yourusername/telegram-group-manager.git
+git clone [https://github.com/yourusername/telegram-group-manager.git](https://github.com/MRFerdinands/Telegram_Groups-Chat_Manager.git)
 cd telegram-group-manager
 ```
 
